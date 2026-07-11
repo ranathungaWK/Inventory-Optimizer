@@ -1,0 +1,39 @@
+# --- Data & Sources ---
+# Ignore the entire local data lake storage inside inventory-lakehouse
+inventory-lakehouse/data_lake/
+
+# Ignore the raw datasets sources folder (contains CSV and 7z files)
+sources/
+
+# --- Python Environment & Cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- IDEs & Editor Configuration ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
