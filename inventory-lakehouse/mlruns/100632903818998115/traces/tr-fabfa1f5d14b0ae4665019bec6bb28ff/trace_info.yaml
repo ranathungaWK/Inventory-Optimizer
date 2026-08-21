@@ -1,0 +1,10 @@
+execution_duration_ms: 413
+request_preview: Summarize the Q3 2024 earnings report for investors.
+request_time: '2026-08-13T03:15:26.013Z'
+response_preview: 'Q3 2024: Revenue up, profits increased, outlook is positive.'
+state: OK
+trace_id: tr-fabfa1f5d14b0ae4665019bec6bb28ff
+trace_location:
+  mlflow_experiment:
+    experiment_id: '100632903818998115'
+  type: MLFLOW_EXPERIMENT

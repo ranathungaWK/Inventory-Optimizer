@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Demand_forecasting/inventory-lakehouse/mlruns/758798970317314461/1033c29ecd744e2d85826cd82ea87695/artifacts
+end_time: 1786351515600
+entry_point_name: ''
+experiment_id: '758798970317314461'
+lifecycle_stage: active
+run_id: 1033c29ecd744e2d85826cd82ea87695
+run_name: trial_002
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786351454808
+status: 3
+tags: []
+user_id: KALINDU RANATHUNGA

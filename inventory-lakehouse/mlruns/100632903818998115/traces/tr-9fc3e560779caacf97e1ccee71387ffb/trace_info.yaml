@@ -1,0 +1,11 @@
+execution_duration_ms: 1395
+request_preview: How do I use mlflow.evaluate() to assess my LLM's output quality?
+request_time: '2026-08-11T23:49:25.934Z'
+response_preview: MLflow has an evaluate() function. You pass it some data and scorers
+  and it gives you back metrics. The results are logged automatically I think.
+state: OK
+trace_id: tr-9fc3e560779caacf97e1ccee71387ffb
+trace_location:
+  mlflow_experiment:
+    experiment_id: '100632903818998115'
+  type: MLFLOW_EXPERIMENT

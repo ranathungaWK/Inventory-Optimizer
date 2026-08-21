@@ -1,0 +1,9 @@
+artifact_location: file:///D:/Demand_forecasting/inventory-lakehouse/mlruns/100632903818998115
+creation_time: 1787033303842
+effective_trace_archival_retention: null
+experiment_id: '100632903818998115'
+last_update_time: 1787033303842
+lifecycle_stage: active
+name: MLflow Demo
+trace_location: null
+workspace: default

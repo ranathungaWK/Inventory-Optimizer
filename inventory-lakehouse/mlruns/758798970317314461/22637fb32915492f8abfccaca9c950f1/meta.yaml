@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Demand_forecasting/inventory-lakehouse/mlruns/758798970317314461/22637fb32915492f8abfccaca9c950f1/artifacts
+end_time: 1786352847781
+entry_point_name: ''
+experiment_id: '758798970317314461'
+lifecycle_stage: active
+run_id: 22637fb32915492f8abfccaca9c950f1
+run_name: optuna_lightgbm_tuning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786352202162
+status: 3
+tags: []
+user_id: KALINDU RANATHUNGA

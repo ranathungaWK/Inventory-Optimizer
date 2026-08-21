@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Demand_forecasting/inventory-lakehouse/mlruns/758798970317314461/models/m-c7490458867245bfaca2316c6da413e1/artifacts
+creation_timestamp: 1786355065919
+experiment_id: '758798970317314461'
+last_updated_timestamp: 1786355091567
+model_id: m-c7490458867245bfaca2316c6da413e1
+model_type: null
+name: lightgbm_model
+source_run_id: f0ba209ed220495d9fc2e8d427191f70
+status: 2
+status_message: null

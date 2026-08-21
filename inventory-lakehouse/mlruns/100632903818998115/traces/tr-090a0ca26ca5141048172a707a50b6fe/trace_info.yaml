@@ -1,0 +1,11 @@
+execution_duration_ms: 961
+request_preview: Great! How do I log a trained model so I can deploy it later?
+request_time: '2026-08-14T05:32:26.152Z'
+response_preview: You can use mlflow.sklearn.log_model() or similar functions to log
+  models. They get saved with the run.
+state: OK
+trace_id: tr-090a0ca26ca5141048172a707a50b6fe
+trace_location:
+  mlflow_experiment:
+    experiment_id: '100632903818998115'
+  type: MLFLOW_EXPERIMENT

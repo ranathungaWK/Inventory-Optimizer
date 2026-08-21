@@ -1,0 +1,11 @@
+execution_duration_ms: 558
+request_preview: I have a model logged in MLflow. How do I deploy it as an API?
+request_time: '2026-08-15T02:28:26.157Z'
+response_preview: You can use MLflow's model serving. Register the model and then
+  serve it with the mlflow models serve command.
+state: OK
+trace_id: tr-e98e784688b9b367ec574f53dbabcb55
+trace_location:
+  mlflow_experiment:
+    experiment_id: '100632903818998115'
+  type: MLFLOW_EXPERIMENT

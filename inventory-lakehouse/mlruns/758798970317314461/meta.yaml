@@ -1,0 +1,6 @@
+artifact_location: file:///D:/Demand_forecasting/inventory-lakehouse/mlruns/758798970317314461
+creation_time: 1786350889261
+experiment_id: '758798970317314461'
+last_update_time: 1786350889261
+lifecycle_stage: active
+name: demand_forecasting_lightgbm
