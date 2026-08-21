@@ -1,0 +1,26 @@
+/* Custom CSS Tokens for Inventory Lakehouse Streamlit Application */
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(161, 161, 170, 0.2);
+    border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(161, 161, 170, 0.4);
+}
+
+/* Card hover animation */
+.metric-card {
+    transition: transform 0.15s ease, border-color 0.15s ease;
+}
+.metric-card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(37, 99, 235, 0.4);
+}
