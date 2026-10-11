@@ -1,4 +1,3 @@
-
 # 🛒 Enterprise Retail Demand Forecasting & Replenishment Optimization Platform
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -139,6 +138,8 @@ flowchart TD
 ---
 
 ## 📦 Medallion Lakehouse Pipeline
+
+During development, we explored different approaches for handling large datasets, including PySpark. However, we ultimately chose **DuckDB with PyArrow** because it provided efficient, memory-conscious processing of our large retail dataset without the additional complexity of a distributed Spark environment.
 
 The data pipeline adopts the **Medallion Architecture**, guaranteeing strict schema validation, type safety, and memory-safe transformations across three tiers:
 
