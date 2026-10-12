@@ -139,7 +139,7 @@ flowchart TD
 
 ## 📦 Medallion Lakehouse Pipeline
 
-During development, we explored different approaches for handling large datasets, including PySpark. However, we ultimately chose **DuckDB with PyArrow** because it provided efficient, memory-conscious processing of our large retail dataset without the additional complexity of a distributed Spark environment.
+During development, we explored different approaches for handling large datasets, including PySpark , Delta lake. However, we ultimately chose **DuckDB with PyArrow** because it provided efficient, memory-conscious processing of our large retail dataset without the additional complexity of a distributed Spark environment.
 
 The data pipeline adopts the **Medallion Architecture**, guaranteeing strict schema validation, type safety, and memory-safe transformations across three tiers:
 
